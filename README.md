@@ -3,28 +3,35 @@
   alt="Typing SVG"
 />
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <strong>Software Engineer / Full-Stack Developer.</strong> Building, learning, and shipping.
-    </td>
-    <td align="right">
-      <a href="https://portfolio.kuldeeprajput.in">Portfolio</a> ·
-      <a href="https://www.linkedin.com/in/kuldeepdotcom/">LinkedIn</a> ·
-      <a href="https://x.com/kuldeepdotcom">X</a> ·
-      <a href="mailto:contact.kuldeeprajput@gmail.com">Email</a>
-    </td>
-  </tr>
-</table>
+<p>
+  <strong>Software Engineer / Full-Stack Developer.</strong> Building, learning, and shipping.
+</p>
+
+<p>
+  <a href="https://portfolio.kuldeeprajput.in">
+    <img align="absmiddle" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-161B22?style=flat&logo=vercel&logoColor=FFFFFF" />
+  </a>
+  <a href="https://www.linkedin.com/in/kuldeepdotcom/">
+    <img align="absmiddle" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161B22?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTQgOWgzLjV2MTFINHpNNS43IDMuNWEyIDIgMCAxMTAgNCAyIDIgMCAwMTAtNHpNMTAgOWgzLjR2MS41Yy41LS45IDEuNi0xLjggMy4zLTEuOCAzLjQgMCA0LjMgMi4xIDQuMyA1VjIwaC0zLjV2LTUuNWMwLTEuMy0uMy0yLjMtMS43LTIuM3MtMi4zIDEtMi4zIDIuM1YyMEgxMHoiLz48L3N2Zz4=" />
+  </a>
+  <a href="https://x.com/kuldeepdotcom">
+    <img align="absmiddle" alt="X" src="https://img.shields.io/badge/X-161B22?style=flat&logo=x&logoColor=FFFFFF" />
+  </a>
+  <a href="mailto:contact.kuldeeprajput@gmail.com">
+    <img align="absmiddle" alt="Email" src="https://img.shields.io/badge/Email-161B22?style=flat&logo=gmail&logoColor=EA4335" />
+  </a>
+  <img align="absmiddle" alt="Profile Views" src="https://komarev.com/ghpvc/?username=kuldeeprajput-dev&label=Profile%20Views&color=161B22&labelColor=161B22&style=flat" />
+</p>
 
 <img align="right" width="230" src="https://raw.githubusercontent.com/kuldeeprajput-dev/kuldeeprajput-dev/main/assets/anime.gif" alt="anime gif" />
 
-I build full-stack web apps and the APIs behind them, mostly with **Next.js, TypeScript and tRPC**.
+Full-stack web apps and the APIs behind them, built mostly with **Next.js, TypeScript and tRPC**.
 
-▸ Built **[macOS Portfolio](https://github.com/kuldeeprajput-dev/macos-portfolio)** · a macOS-style desktop in the browser with 25+ apps. Open source.<br/>
-▸ Built **[NewTube](https://github.com/kuldeeprajput-dev/newtube)** · video sharing platform with Next.js, tRPC, Drizzle, Mux and Clerk.<br/>
-▸ Built **[Coursenva](https://github.com/kuldeeprajput-dev/ai-course-finder)** · finds free online courses with AI and builds career roadmaps.<br/>
-▸ Built **[Resuvee](https://github.com/kuldeeprajput-dev/resuvee)** · resume builder and ATS analyzer with PDF export.<br/>
+▸ Built **[macOS Portfolio](https://macos.kuldeeprajput.in)** [Repo](https://github.com/kuldeeprajput-dev/macos-portfolio) · a macOS-style desktop in the browser with 25+ apps.<br/>
+▸ Built **[Cutnora](https://cutnora.app)** [Repo](https://github.com/kuldeeprajput-dev/cutnora) · a browser video editor with multi-track timeline, local-first, zero uploads.<br/>
+▸ Built **[Resuvee](https://resuvee.vercel.app)** [Repo](https://github.com/kuldeeprajput-dev/resuvee) · resume builder and ATS analyzer with PDF export.<br/>
+▸ Built **[Coursenva](https://coursenva.vercel.app)** [Repo](https://github.com/kuldeeprajput-dev/ai-course-finder) · finds free online courses with AI and builds career roadmaps.<br/>
+▸ Built **[NewTube](https://newtube-ruddy.vercel.app)** [Repo](https://github.com/kuldeeprajput-dev/newtube) · video sharing platform with Next.js, tRPC, Drizzle, Mux and Clerk.<br/>
 ▸ Currently shipping more and getting better at engineering.
 
 <br clear="right" />
