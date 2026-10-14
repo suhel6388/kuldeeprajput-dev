@@ -25,7 +25,7 @@
 
 <img align="right" width="230" src="https://raw.githubusercontent.com/kuldeeprajput-dev/kuldeeprajput-dev/main/assets/anime.gif" alt="anime gif" />
 
-Full-stack web apps and the APIs behind them, built mostly with **Next.js, TypeScript and tRPC**.
+Full-stack web apps and the APIs behind them, mostly with **Next.js, TypeScript and tRPC**.
 
 ▸ Built **[macOS Portfolio](https://macos.kuldeeprajput.in)** [Repo](https://github.com/kuldeeprajput-dev/macos-portfolio) · a macOS-style desktop in the browser with 25+ apps.<br/>
 ▸ Built **[Cutnora](https://cutnora.app)** [Repo](https://github.com/kuldeeprajput-dev/cutnora) · a browser video editor with multi-track timeline, local-first, zero uploads.<br/>
@@ -76,9 +76,6 @@ Full-stack web apps and the APIs behind them, built mostly with **Next.js, TypeS
 <p>
   <strong>Find Me On</strong>
   &nbsp;
-  <a href="https://portfolio.kuldeeprajput.in">
-    <img align="absmiddle" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-161B22?style=flat&logo=vercel&logoColor=FFFFFF" />
-  </a>
   <a href="https://x.com/kuldeepdotcom">
     <img align="absmiddle" alt="X" src="https://img.shields.io/badge/X-161B22?style=flat&logo=x&logoColor=FFFFFF" />
   </a>
